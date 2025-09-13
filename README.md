@@ -1,4 +1,4 @@
-# Frenna - Assistente Virtual
+# Frenna - Assistente virtual
 
 Frenna é uma assistente virtual em Python que executa comandos de voz para pesquisar na Wikipédia, abrir sites e tocar músicas no YouTube, com futuras melhorias planejadas para expandir suas funcionalidades.
 
